@@ -26,3 +26,9 @@ Route::delete('del',function(){
 Route::put('pt',function(){
 	return '333';
 });
+Route::delete('del',function(){
+	return '298982';
+});
+Route::put('pt',function(){
+	return '3';
+});
